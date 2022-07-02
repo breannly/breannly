@@ -1,5 +1,14 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Hi+there+%F0%9F%91%8B+I'm+Armen;+Welcome+to+my+github!)](https://git.io/typing-svg)
+#### Beginner Java backend developer & yandex-practicum student
 
+#### I'm using:
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### I've got my own Telegram channel in which I talk about my path to becoming a developer. I'll be glat to see you there!
+[![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+fZDDsVpqVSk3ZDgy)
 <!--
 **Arnulogus/Arnulogus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
