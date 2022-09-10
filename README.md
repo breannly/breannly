@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Hi+there+%F0%9F%91%8B+I'm+Armen;+Welcome+to+my+github!)](https://git.io/typing-svg)
+
 #### Beginner Java backend developer & yandex-practicum student
 
 #### I'm using:
