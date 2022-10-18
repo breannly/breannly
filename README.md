@@ -1,5 +1,5 @@
 
-#### Beginner Java backend developer & yandex-practicum student
+#### Beginner Java backend developer
 
 #### I'm using:
 
