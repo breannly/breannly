@@ -1,5 +1,5 @@
 
-#### Beginner Java backend developer
+#### Java backend developer
 
 #### I'm using:
 
