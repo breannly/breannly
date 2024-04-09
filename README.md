@@ -1,23 +1,44 @@
+<h1 align="center">Привет, я Армен 👋</h1>
 
-#### Java backend developer
+<p align="center">
+  <a href="https://github.com/breannly">
+    <img src="https://komarev.com/ghpvc/?username=breannly" alt="profile views">
+  </a>
+  <a href="https://github.com/breannly?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/breannly?color=green&logo=github">
+  </a>
+</p>
 
-#### I'm using:
+<p align="center">
+  <strong>Senior Software Engineer @ Сбер</strong> <br>
+  Специализируюсь на создании высоконагруженных систем, используя <strong>Java 11+</strong> и <strong>Spring Framework</strong>. С 2.5 годами опыта, я разрабатываю решения, которые трансформируют бизнес и делают технологии надежными и доступными.
+</p>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
-<!--
-**Arnulogus/Arnulogus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Технические навыки
+- **Языки программирования:** Java 11+
+- **Фреймворки и библиотеки:** Spring (Boot, Security, Web, WebFlux, Cloud)
+- **Сообщения:** Kafka
+- **Оркестрация контейнеров:** Kubernetes
+- **CI/CD:** Jenkins, GitLab CI, GitHub Actions
+- **Базы данных:** PostgreSQL, MongoDB
+- **Тестирование:** JUnit, Mockito, RestAssured
+- **Инструменты разработки:** IntelliJ IDEA, Visual Studio Code
+- **Системы контроля версий:** Git
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub статистика
+
+<p align="center">
+  <a href="https://github.com/breannly">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breannly&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breannly&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+---
+
+### 📬 Контакты
+- **Telegram:** `@arnulogus`
