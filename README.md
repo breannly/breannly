@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <strong>Senior Software Engineer @ Сбер</strong> <br>
+  <strong>Software Engineer @Сбер</strong> <br>
   Специализируюсь на создании высоконагруженных систем, используя <strong>Java 11+</strong> и <strong>Spring Framework</strong>. С 2.5 годами опыта, я разрабатываю решения, которые трансформируют бизнес и делают технологии надежными и доступными.
 </p>
 
